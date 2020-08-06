@@ -1,0 +1,25 @@
+2020-08-06 20:26:04,520 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 20:26:04,748 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 20:26:04,781 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:26:40,516 - com.pages.LoginPage - INFO - Invalid Loging  Message is   Displyed 
+2020-08-06 20:26:43,509 - com.scripts.LoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:27:15,373 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:27:52,042 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:27:52,146 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 20:27:52,266 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:27:52,345 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:27:52,412 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 20:27:52,413 - com.pages.SearchValidatePage - INFO - Same 
+2020-08-06 20:27:53,161 - com.scripts.AddingProductToCartTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:28:25,621 - com.pages.AddingProductToCartPage - INFO - There is 1 item in your cart. 
+2020-08-06 20:28:26,933 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:29:06,124 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-06 20:29:06,128 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-06 20:29:06,265 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-06 20:29:06,265 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-06 20:29:06,380 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-06 20:29:06,381 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-06 20:29:06,484 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-06 20:29:06,484 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-06 20:29:08,569 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 20:29:08,657 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 

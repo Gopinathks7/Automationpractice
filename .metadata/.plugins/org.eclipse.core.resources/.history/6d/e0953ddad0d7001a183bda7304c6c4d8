@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 16:05:12 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>270</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>293</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>43225</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.AddingProductToCartPage category">com.pages.AddingProductToCartPage</td>
+<td>AddingProductToCartPage.java:70</td>
+<td title="Message">There is 1 item in your cart.</td>
+</tr>
+
+<tr>
+<td>43602</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>43657</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

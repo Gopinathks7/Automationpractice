@@ -1,0 +1,10 @@
+2020-08-06 17:49:43,726 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:49:44,177 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:49:44,223 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:50:21,907 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:50:21,956 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:57:28,872 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:57:29,206 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:57:29,239 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:58:06,133 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:58:06,169 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 

@@ -1,0 +1,6 @@
+2020-08-06 16:05:12,464 - com.scripts.AddingProductToCartTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:05:12,734 - com.scripts.AddingProductToCartTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:05:12,757 - com.scripts.AddingProductToCartTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:05:55,689 - com.pages.AddingProductToCartPage - INFO - There is 1 item in your cart. 
+2020-08-06 16:05:56,066 - com.scripts.AddingProductToCartTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:05:56,121 - com.scripts.AddingProductToCartTest - INFO - Finalizing ExtentReport 

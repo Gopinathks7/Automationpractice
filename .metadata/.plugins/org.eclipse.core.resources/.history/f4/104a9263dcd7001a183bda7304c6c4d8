@@ -1,0 +1,131 @@
+2020-08-06 16:08:50,399 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:08:50,694 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:08:50,721 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:10:07,317 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:10:07,397 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:10:55,403 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:10:55,709 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:10:55,735 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:11:39,173 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:11:39,204 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:13:38,524 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:13:38,854 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:13:38,881 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:14:41,510 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:14:41,570 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:27:05,192 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:27:05,995 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:27:06,062 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:28:30,258 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:28:30,446 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:31:13,190 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:31:14,164 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:31:14,264 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:32:11,114 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:32:11,949 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:33:35,285 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:33:35,643 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:33:35,670 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:34:27,995 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:34:28,054 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:37:17,144 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:37:17,510 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:37:17,551 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:39:07,765 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:39:08,136 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:43:21,723 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:43:22,542 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:43:22,595 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:45:38,153 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:45:38,341 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:47:16,030 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:47:16,977 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:47:17,022 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:47:54,296 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:47:54,339 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 16:53:07,332 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 16:53:07,680 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 16:53:07,704 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 16:54:20,801 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 16:54:21,097 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:00:29,310 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:00:31,190 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:00:31,284 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:01:37,460 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:01:37,542 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:04:13,584 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:04:14,425 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:04:14,461 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:04:40,967 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:04:40,996 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:07:49,387 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:07:49,792 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:07:49,821 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:08:20,446 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:08:20,713 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:08:20,898 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:08:21,042 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:08:21,064 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:08:21,088 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:09:27,990 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:09:28,381 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:09:28,422 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:10:00,139 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:10:00,324 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:10:00,446 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:10:00,566 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:10:00,711 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:10:00,715 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76 pixels 
+2020-08-06 17:10:00,797 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:10:00,798 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70 pixels 
+2020-08-06 17:10:00,872 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:10:00,873 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91 pixels 
+2020-08-06 17:10:00,953 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:10:00,953 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92 pixels 
+2020-08-06 17:10:00,973 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:10:00,999 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:15:02,650 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:15:02,962 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:15:03,002 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:15:42,749 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:15:42,932 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:15:43,094 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:15:43,271 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:15:43,396 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:15:43,397 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76 pixels 
+2020-08-06 17:15:43,605 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:15:43,606 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70 pixels 
+2020-08-06 17:15:43,776 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:15:43,777 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91 pixels 
+2020-08-06 17:15:43,904 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:15:43,905 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92 pixels 
+2020-08-06 17:15:43,931 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:15:43,970 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:17:55,841 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:17:56,309 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:17:56,333 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:18:33,856 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:18:34,142 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:18:34,436 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:18:34,787 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:18:34,903 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:18:34,904 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76 pixels 
+2020-08-06 17:18:35,019 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:18:35,020 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70 pixels 
+2020-08-06 17:18:35,136 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:18:35,137 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91 pixels 
+2020-08-06 17:18:35,243 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels 
+2020-08-06 17:18:35,244 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92 pixels 
+2020-08-06 17:18:35,271 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:18:35,321 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:22:23,392 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:22:23,656 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:22:23,685 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:22:57,018 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:22:57,266 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:22:57,436 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:22:57,572 - com.pages.FunctionValidatingPage - INFO - Functionality is working 
+2020-08-06 17:22:57,684 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixelsTwiterButton 
+2020-08-06 17:22:57,685 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76 pixelsTwiterButton 
+2020-08-06 17:22:57,707 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:22:57,726 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 

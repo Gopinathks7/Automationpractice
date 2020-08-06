@@ -1,0 +1,28 @@
+2020-08-06 18:27:42,728 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 18:27:43,132 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 18:27:43,171 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 18:28:30,441 - com.pages.LoginPage - INFO - Invalid Loging  Message is   Displyed 
+2020-08-06 18:28:33,948 - com.scripts.LoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 18:29:09,697 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 18:29:44,347 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 18:29:44,435 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 18:29:44,533 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 18:29:44,622 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 18:29:44,713 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 18:29:44,714 - com.pages.SearchValidatePage - INFO - Same 
+2020-08-06 18:29:45,687 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 18:29:45,763 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 
+2020-08-06 19:49:26,564 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 19:49:28,121 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 19:49:28,209 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 19:51:14,126 - com.pages.LoginPage - INFO - Invalid Loging  Message is   Displyed 
+2020-08-06 19:51:33,805 - com.scripts.LoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 19:52:30,339 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 19:53:40,839 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 19:53:40,968 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 19:53:41,089 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 19:53:41,191 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 19:53:41,290 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 19:53:41,291 - com.pages.SearchValidatePage - INFO - Same 
+2020-08-06 19:53:42,763 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 19:53:43,026 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 

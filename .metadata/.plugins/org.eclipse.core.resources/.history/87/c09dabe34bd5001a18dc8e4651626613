@@ -1,0 +1,107 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
+
+import com.common.BasePage;
+
+public class AddingProductToCartPage extends BasePage
+{
+
+	public AddingProductToCartPage(WebDriver driver) {
+	super(driver);
+	PageFactory.initElements(driver, this);
+	}
+@FindBy(xpath=".//a[@class='btn btn-default button button-small' and @title='Home']")
+private WebElement clickHomeIcon;
+	
+@FindBy (xpath="//*[@id='homefeatured']/li[7]/div/div[1]/div/a[1]/img")
+private WebElement scrollproduct;
+	
+@FindBy (xpath="//*[@id='homefeatured']/li[7]/div/div[1]/div/a[1]/img")
+private WebElement product;
+
+@FindBy (xpath="//*[@id='add_to_cart']/button/span")
+private WebElement addItem;
+
+@FindBy(xpath=".//div[@id='layer_cart']/div[1]/div[1]/h2")
+private WebElement message;
+
+
+public void clickHomeIcon()
+{
+	try
+	{
+		clickHomeIcon.click();
+		Thread.sleep(500);
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+}
+
+	public void pageScollTo()
+	{
+		try
+		{
+			scrollToProduct(scrollproduct);
+			Thread.sleep(500);
+		}
+		catch (Exception e) {
+		e.printStackTrace();
+	}
+	}
+	
+	public void clickOnMensProductStoe()
+	{
+		try
+		{
+			product.click();
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public void addingSelectedItemToCart()
+	{
+		try
+		{
+			switchingToFrame();
+			Thread.sleep(200);
+			addItem.click();
+			
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	public void switchFrame()
+	{
+		try
+		{
+			switchingToFrame();
+			Thread.sleep(200);
+			
+			
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	public void checkMessage()
+	{
+		try
+		{
+		Assert.assertFalse(message.isDisplayed());
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	}
+	
+

@@ -1,0 +1,39 @@
+2020-08-06 17:30:58,114 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:30:58,835 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:30:58,866 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:32:04,540 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  TwiterButton 
+2020-08-06 17:32:04,541 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76 pixels   TwiterButton 
+2020-08-06 17:32:04,685 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  FacebookButton 
+2020-08-06 17:32:04,686 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70 pixels   FacebookButton 
+2020-08-06 17:32:04,821 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  Google Button 
+2020-08-06 17:32:04,822 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91 pixels   Google Button 
+2020-08-06 17:32:04,962 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  Pinerest Button 
+2020-08-06 17:32:04,963 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92 pixels   Pinerest Button 
+2020-08-06 17:32:04,994 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:32:05,089 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:40:13,831 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:40:14,980 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:40:15,026 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:41:38,887 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-06 17:41:38,888 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-06 17:41:39,009 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-06 17:41:39,010 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-06 17:41:39,151 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-06 17:41:39,151 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-06 17:41:39,395 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-06 17:41:39,396 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Twiter Button 
+2020-08-06 17:41:39,406 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:41:39,494 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-06 17:45:40,999 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-06 17:45:41,886 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-06 17:45:41,956 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 17:46:44,818 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-06 17:46:44,820 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-06 17:46:45,053 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-06 17:46:45,054 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-06 17:46:45,165 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-06 17:46:45,166 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-06 17:46:45,284 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-06 17:46:45,285 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-06 17:46:46,616 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 17:46:46,774 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 

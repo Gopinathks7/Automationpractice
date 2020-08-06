@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 20:15:38 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>259</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>290</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>38522</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.LoginPage category">com.pages.LoginPage</td>
+<td>BasePage.java:132</td>
+<td title="Message">Invalid Loging  Message is   Displyed</td>
+</tr>
+
+<tr>
+<td>41342</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.LoginTest category">com.scripts.LoginTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>75515</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>108401</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>108570</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>108662</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>108743</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>108810</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>108811</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:86</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>109517</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>127390</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.AddingProductToCartPage category">com.pages.AddingProductToCartPage</td>
+<td>AddingProductToCartPage.java:59</td>
+<td title="Message">There is 1 item in your cart.</td>
+</tr>
+
+<tr>
+<td>128296</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>161579</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>161582</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 76  pixels of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>161693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>161693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 70  pixels of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>161793</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>161793</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 91  pixels of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>161896</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>161897</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 92  pixels of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>163206</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>163294</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

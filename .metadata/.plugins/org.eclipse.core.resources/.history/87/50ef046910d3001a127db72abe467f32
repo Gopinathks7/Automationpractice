@@ -1,0 +1,16 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class AddingProductToCartPage extends BasePage
+{
+
+	public AddingProductToCartPage(WebDriver driver) {
+		super(driver);
+	PageFactory.initElements(driver, this);
+	}
+
+}

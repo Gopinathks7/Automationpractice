@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="16" total="24" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="183839" started-at="2020-08-06T20:26:04 IST" finished-at="2020-08-06T20:29:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="183839" started-at="2020-08-06T20:26:04 IST" finished-at="2020-08-06T20:29:08 IST">
+      <class name="com.scripts.AddingProductToCartTest">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="initApplication" is-config="true" duration-ms="13041" started-at="2020-08-06T20:27:53 IST" finished-at="2020-08-06T20:28:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="preCondition" is-config="true" duration-ms="2096" started-at="2020-08-06T20:28:06 IST" finished-at="2020-08-06T20:28:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.AddingProductToCartTest.Login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:com.scripts.AddingProductToCartTest@63440df3]" name="Login" duration-ms="12535" started-at="2020-08-06T20:28:08 IST" finished-at="2020-08-06T20:28:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:28:20 IST" finished-at="2020-08-06T20:28:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=AddingProductToCartTest.Login()[pri:1, instance:com.scripts.AddingProductToCartTest@63440df3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="preCondition" is-config="true" duration-ms="1840" started-at="2020-08-06T20:28:20 IST" finished-at="2020-08-06T20:28:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.AddingProductToCartTest.scrollingAndAddingProduct()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="scrollingAndAddingProduct()[pri:2, instance:com.scripts.AddingProductToCartTest@63440df3]" name="scrollingAndAddingProduct" duration-ms="4244" started-at="2020-08-06T20:28:22 IST" finished-at="2020-08-06T20:28:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollingAndAddingProduct -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:28:26 IST" finished-at="2020-08-06T20:28:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=scrollingAndAddingProduct status=SUCCESS method=AddingProductToCartTest.scrollingAndAddingProduct()[pri:2, instance:com.scripts.AddingProductToCartTest@63440df3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.AddingProductToCartTest@63440df3]" name="cleanApplication" is-config="true" duration-ms="0" started-at="2020-08-06T20:28:26 IST" finished-at="2020-08-06T20:28:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+      </class> <!-- com.scripts.AddingProductToCartTest -->
+      <class name="com.scripts.InvalidLoginTest">
+        <test-method status="PASS" signature="initFrameWork()[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="initFrameWork" is-config="true" duration-ms="247" started-at="2020-08-06T20:26:04 IST" finished-at="2020-08-06T20:26:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initFrameWork -->
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="initBrowser" is-config="true" duration-ms="15" started-at="2020-08-06T20:26:04 IST" finished-at="2020-08-06T20:26:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="initApplication" is-config="true" duration-ms="15786" started-at="2020-08-06T20:26:04 IST" finished-at="2020-08-06T20:26:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="preCondition" is-config="true" duration-ms="3004" started-at="2020-08-06T20:26:20 IST" finished-at="2020-08-06T20:26:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.InvalidLoginTest.InvalidLoginTesting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="InvalidLoginTesting()[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="InvalidLoginTesting" duration-ms="19864" started-at="2020-08-06T20:26:23 IST" finished-at="2020-08-06T20:26:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginTesting -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="postCondition" is-config="true" duration-ms="9" started-at="2020-08-06T20:26:43 IST" finished-at="2020-08-06T20:26:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=InvalidLoginTesting status=SUCCESS method=InvalidLoginTest.InvalidLoginTesting()[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="cleanApplication" is-config="true" duration-ms="1" started-at="2020-08-06T20:26:43 IST" finished-at="2020-08-06T20:26:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+        <test-method status="PASS" signature="closeBrowser(java.lang.String)[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-08-06T20:29:08 IST" finished-at="2020-08-06T20:29:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeFrameWork()[pri:0, instance:com.scripts.InvalidLoginTest@1a3869f4]" name="closeFrameWork" is-config="true" duration-ms="1300" started-at="2020-08-06T20:29:08 IST" finished-at="2020-08-06T20:29:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFrameWork -->
+      </class> <!-- com.scripts.InvalidLoginTest -->
+      <class name="com.scripts.FunctionValidatingTest">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="initApplication" is-config="true" duration-ms="13175" started-at="2020-08-06T20:28:26 IST" finished-at="2020-08-06T20:28:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="preCondition" is-config="true" duration-ms="1829" started-at="2020-08-06T20:28:40 IST" finished-at="2020-08-06T20:28:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.FunctionValidatingTest.loginToApplicationm()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="loginToApplicationm()[pri:1, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="loginToApplicationm" duration-ms="14124" started-at="2020-08-06T20:28:41 IST" finished-at="2020-08-06T20:28:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplicationm -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:28:56 IST" finished-at="2020-08-06T20:28:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginToApplicationm status=SUCCESS method=FunctionValidatingTest.loginToApplicationm()[pri:1, instance:com.scripts.FunctionValidatingTest@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="preCondition" is-config="true" duration-ms="2288" started-at="2020-08-06T20:28:56 IST" finished-at="2020-08-06T20:28:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.FunctionValidatingTest.validateFunctionslity()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="validateFunctionslity()[pri:2, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="validateFunctionslity" duration-ms="10203" started-at="2020-08-06T20:28:58 IST" finished-at="2020-08-06T20:29:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFunctionslity -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:29:08 IST" finished-at="2020-08-06T20:29:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFunctionslity status=SUCCESS method=FunctionValidatingTest.validateFunctionslity()[pri:2, instance:com.scripts.FunctionValidatingTest@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.FunctionValidatingTest@3aeaafa6]" name="cleanApplication" is-config="true" duration-ms="1" started-at="2020-08-06T20:29:08 IST" finished-at="2020-08-06T20:29:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+      </class> <!-- com.scripts.FunctionValidatingTest -->
+      <class name="com.scripts.LoginTest">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.LoginTest@a38d7a3]" name="initApplication" is-config="true" duration-ms="12399" started-at="2020-08-06T20:26:43 IST" finished-at="2020-08-06T20:26:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.LoginTest@a38d7a3]" name="preCondition" is-config="true" duration-ms="1596" started-at="2020-08-06T20:26:55 IST" finished-at="2020-08-06T20:26:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.LoginTest.ValidLoginTesting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ValidLoginTesting()[pri:0, instance:com.scripts.LoginTest@a38d7a3]" name="ValidLoginTesting" duration-ms="17860" started-at="2020-08-06T20:26:57 IST" finished-at="2020-08-06T20:27:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginTesting -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.LoginTest@a38d7a3]" name="postCondition" is-config="true" duration-ms="2" started-at="2020-08-06T20:27:15 IST" finished-at="2020-08-06T20:27:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidLoginTesting status=SUCCESS method=LoginTest.ValidLoginTesting()[pri:0, instance:com.scripts.LoginTest@a38d7a3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.LoginTest@a38d7a3]" name="cleanApplication" is-config="true" duration-ms="0" started-at="2020-08-06T20:27:15 IST" finished-at="2020-08-06T20:27:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+      </class> <!-- com.scripts.LoginTest -->
+      <class name="com.scripts.SearchValidateTest">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="initApplication" is-config="true" duration-ms="13772" started-at="2020-08-06T20:27:15 IST" finished-at="2020-08-06T20:27:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="preCondition" is-config="true" duration-ms="1824" started-at="2020-08-06T20:27:29 IST" finished-at="2020-08-06T20:27:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.SearchValidateTest.loginToApplicationm()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="loginToApplicationm()[pri:1, instance:com.scripts.SearchValidateTest@77f99a05]" name="loginToApplicationm" duration-ms="14522" started-at="2020-08-06T20:27:30 IST" finished-at="2020-08-06T20:27:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplicationm -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:27:45 IST" finished-at="2020-08-06T20:27:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginToApplicationm status=SUCCESS method=SearchValidateTest.loginToApplicationm()[pri:1, instance:com.scripts.SearchValidateTest@77f99a05] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="preCondition" is-config="true" duration-ms="2106" started-at="2020-08-06T20:27:45 IST" finished-at="2020-08-06T20:27:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.scripts.SearchValidateTest.validatingProductSearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="validatingProductSearch()[pri:2, instance:com.scripts.SearchValidateTest@77f99a05]" name="validatingProductSearch" duration-ms="5553" started-at="2020-08-06T20:27:47 IST" finished-at="2020-08-06T20:27:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingProductSearch -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="postCondition" is-config="true" duration-ms="1" started-at="2020-08-06T20:27:53 IST" finished-at="2020-08-06T20:27:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatingProductSearch status=SUCCESS method=SearchValidateTest.validatingProductSearch()[pri:2, instance:com.scripts.SearchValidateTest@77f99a05] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="cleanApplication()[pri:0, instance:com.scripts.SearchValidateTest@77f99a05]" name="cleanApplication" is-config="true" duration-ms="1" started-at="2020-08-06T20:27:53 IST" finished-at="2020-08-06T20:27:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanApplication -->
+      </class> <!-- com.scripts.SearchValidateTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

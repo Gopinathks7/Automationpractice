@@ -1,0 +1,31 @@
+package com.scripts;
+
+import org.testng.annotations.Test;
+
+import com.common.AutomationConstants;
+import com.common.BasePage;
+import com.common.BaseTest;
+import com.generic.Excel;
+import com.pages.SearchValidatePage;
+
+public class SearchValidateTest extends BaseTest implements AutomationConstants 
+{
+	
+	
+	@Test(priority = 1)
+	public void loginToApplicationm()
+	{
+		BasePage p=new BasePage(driver);
+		p.Login();
+	}
+	@Test(priority = 2)
+	
+	public void validatingProductSearch() 
+	{
+		String content=Excel.getCellValue(INPUT_PATH, "Sheet4", 1, 0);
+		SearchValidatePage searchpage=new SearchValidatePage(driver);
+		searchpage.validateProductName(content);
+		searchpage. closeAllBrowser();
+	}
+
+}

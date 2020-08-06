@@ -1,0 +1,84 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class FunctionValidatingPage extends BasePage
+{
+
+	public FunctionValidatingPage(WebDriver driver) {
+		super(driver);
+		PageFactory.initElements(driver, this);
+	}
+	
+	@FindBy(xpath=".//*[@class='btn btn-default btn-twitter']")
+	private WebElement twiterbutton;
+	
+	@FindBy(xpath=".//*[@class='btn btn-default btn-facebook']")
+	private WebElement facebookbutton;
+
+	
+	@FindBy(xpath="//*[@class='btn btn-default btn-google-plus']")
+	private WebElement googlebutton;
+	
+	@FindBy(xpath=".//*[@class='btn btn-default btn-pinterest']")
+	private WebElement pinrestbutton;
+	
+	@FindBy (xpath="//*[@id='homefeatured']/li[7]/div/div[1]/div/a[1]/img")
+	private WebElement scrollproduct;
+	
+	@FindBy (xpath="//*[@id='homefeatured']/li[7]/div/div[1]/div/a[1]/img")
+	private WebElement product;
+	
+	@FindBy(xpath="//*[@id='homefeatured']/li[1]/div/div[2]/div[2]/a[2]/span")
+	private WebElement morebutton;
+	
+	public void pageScollTo()
+	{
+		try
+		{
+		
+			scrollToProduct(scrollproduct);
+			Thread.sleep(500);
+			moveToElement(product);
+			Thread.sleep(200);
+			morebutton.click();
+		}
+		catch (Exception e) {
+		e.printStackTrace();
+	}
+	}
+
+	public void validateButton() 
+	{
+		try
+		{
+			checkFunctionality( twiterbutton);
+			checkFunctionality( facebookbutton);
+			checkFunctionality( googlebutton);
+			checkFunctionality( pinrestbutton);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
+	public void getSizeofButton() {
+		try
+		{
+			getElementsize( twiterbutton) ;
+			getElementsize( facebookbutton) ;
+			getElementsize( googlebutton) ;
+			getElementsize( pinrestbutton) ;
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+}

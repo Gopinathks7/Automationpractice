@@ -1,0 +1,31 @@
+2020-08-06 20:01:28,769 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-06 20:01:30,052 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-06 20:01:30,124 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:03:03,748 - com.pages.LoginPage - INFO - Invalid Loging  Message is   Displyed 
+2020-08-06 20:03:06,808 - com.scripts.LoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:03:48,050 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:04:22,289 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:04:22,378 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 20:04:22,466 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:04:22,545 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 20:04:22,657 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 20:04:22,658 - com.pages.SearchValidatePage - INFO - Same 
+2020-08-06 20:04:23,601 - com.scripts.AddingProductToCartTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:04:57,769 - com.pages.AddingProductToCartPage - INFO -  
+2020-08-06 20:05:01,126 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:05:45,810 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-06 20:05:45,814 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-06 20:05:45,945 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-06 20:05:45,946 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-06 20:05:46,057 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-06 20:05:46,058 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-06 20:05:46,175 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-06 20:05:46,176 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-06 20:05:47,489 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 20:05:47,762 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 
+2020-08-06 20:12:43,205 - com.scripts.AddingProductToCartTest - INFO - Initalising the  ExtentReport 
+2020-08-06 20:12:44,019 - com.scripts.AddingProductToCartTest - INFO - Browser: Selected is Chrome 
+2020-08-06 20:12:44,082 - com.scripts.AddingProductToCartTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 20:13:12,552 - com.pages.AddingProductToCartPage - INFO - There is 1 item in your cart. 
+2020-08-06 20:13:13,914 - com.scripts.AddingProductToCartTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 20:13:13,946 - com.scripts.AddingProductToCartTest - INFO - Finalizing ExtentReport 

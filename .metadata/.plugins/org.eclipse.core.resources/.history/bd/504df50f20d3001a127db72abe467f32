@@ -1,0 +1,62 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class AddingProductToCartPage extends BasePage
+{
+
+	public AddingProductToCartPage(WebDriver driver) {
+	super(driver);
+	PageFactory.initElements(driver, this);
+	}
+@FindBy(xpath=".//a[@class='btn btn-default button button-small' and @title='Home']")
+private WebElement clickHomeIcon;
+	
+@FindBy (xpath=".//div[@id='htmlcontent_home']/ul/li[2]/a/img")
+private WebElement mensproduct;
+	
+@FindBy (xpath=".//div[@id='htmlcontent_home']/ul/li[2]/a/img")
+private WebElement menproduct;
+
+
+public void clickHomeIcon()
+{
+	try
+	{
+		clickHomeIcon.click();
+		Thread.sleep(500);
+	}
+	catch (Exception e) {
+		e.printStackTrace();
+	}
+}
+
+	public void pageScollTo()
+	{
+		try
+		{
+			scrollToProduct(mensproduct);
+			Thread.sleep(500);
+		}
+		catch (Exception e) {
+		e.printStackTrace();
+	}
+	}
+	
+	public void clickOnMensProductStoe()
+	{
+		try
+		{
+			menproduct.click();
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+}

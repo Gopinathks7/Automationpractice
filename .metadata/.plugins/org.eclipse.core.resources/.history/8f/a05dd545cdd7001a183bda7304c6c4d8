@@ -1,0 +1,1659 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 13:36:10 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>1064</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>1106</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>50005</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>50061</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 13:53:10 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>438</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>476</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>45559</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>45687</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 13:57:36 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>363</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>391</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>42547</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>42609</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>42678</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>42737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>42798</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>42803</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:64</td>
+<td title="Message">Not Same</td>
+</tr>
+
+<tr>
+<td>44381</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>44431</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 13:59:31 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>240</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>262</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>48146</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>48198</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>48299</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>48351</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>48400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>48406</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:64</td>
+<td title="Message">Not Same</td>
+</tr>
+
+<tr>
+<td>48416</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>48442</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 14:02:03 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>252</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>285</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>45589</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>45655</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>45718</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>45781</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>45849</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>45873</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:64</td>
+<td title="Message">True</td>
+</tr>
+
+<tr>
+<td>45882</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>45959</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 14:11:22 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>420</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>63275</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>63355</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>63465</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>63600</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>63703</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>63710</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:85</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>63720</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>63760</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 14:22:29 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>349</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>408</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>41580</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:96</td>
+<td title="Message">Functionality isworking</td>
+</tr>
+
+<tr>
+<td>44750</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>44814</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>44879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>44927</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>44988</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>44993</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:85</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>45002</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>45028</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 14:37:08 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>409</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>445</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>82298</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:96</td>
+<td title="Message">Functionality is working[[ChromeDriver: chrome on WINDOWS (e5a0d6c831ac6f5c0a4472d08b48a8e0)] -&gt; id: search_query_top]</td>
+</tr>
+
+<tr>
+<td>84786</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>84974</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>85156</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:51</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>85224</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:85</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>85232</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>85527</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 14:44:11 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>752</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>798</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>60429</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:96</td>
+<td title="Message">Functionality is working</td>
+</tr>
+
+<tr>
+<td>60699</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:108</td>
+<td title="Message">Button Height Is 45 pixels</td>
+</tr>
+
+<tr>
+<td>60699</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:109</td>
+<td title="Message">Button Width Is 370 pixels</td>
+</tr>
+
+<tr>
+<td>64230</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>64365</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>64444</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>64546</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>64624</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>64632</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:85</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>64645</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64681</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:10:36 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>840</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>918</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>83902</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:96</td>
+<td title="Message">Functionality is working</td>
+</tr>
+
+<tr>
+<td>84025</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:108</td>
+<td title="Message">Button Height Is 45 pixels</td>
+</tr>
+
+<tr>
+<td>84026</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:109</td>
+<td title="Message">Button Width Is 370 pixels</td>
+</tr>
+
+<tr>
+<td>87259</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>87400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>87510</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>87590</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>87665</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>SearchValidatePage.java:52</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>87688</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:85</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>87697</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>87987</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:17:17 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>660</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>699</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>56248</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>56280</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:27:21 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>928</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>998</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>76199</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>76330</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:29:21 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>249</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>269</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>63995</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:31:13 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>380</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>415</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64392</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64436</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:33:56 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>429</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>471</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64832</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>64870</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:38:01 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>272</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>297</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>44357</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>44387</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Aug 06 15:40:05 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>279</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>312</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>49820</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>49878</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

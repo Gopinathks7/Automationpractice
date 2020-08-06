@@ -1,0 +1,45 @@
+package com.trivago;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class BookingPage 
+{
+
+	public BookingPage(WebDriver driver)
+	{
+		PageFactory.initElements(driver, this);
+	}
+	@FindBy(id="querytext")
+	private WebElement searchfield;
+	
+	@FindBy(xpath=".//span[@class='search-button__label']")
+	private WebElement clicksearch;
+	
+	
+	public void enterCityName(String place)
+	{
+		try
+		{
+			clicksearch.click();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
+	public void clickSearchButton()
+	{
+		try
+		{
+			searchfield.sendKeys(place);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+}

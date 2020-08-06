@@ -1,0 +1,35 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class SearchValidatePage extends BasePage
+{
+
+	public SearchValidatePage(WebDriver driver)
+	{
+		super(driver);
+		PageFactory.initElements(driver, this);
+		
+	}
+@FindBy(id="search_query_top")
+private WebElement searchitem;
+
+@FindBy(xpath="//*[@name='submit_search'")
+private WebElement searchbutton;
+
+public void setSearch(String content)
+{
+	
+	try
+	{
+		searchitem.sendKeys(content);
+		searchbutton.click();
+	}
+}
+	
+}

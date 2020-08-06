@@ -1,0 +1,16 @@
+package com.scripts;
+
+
+import org.testng.annotations.Test;
+import com.common.BasePage;
+import com.common.BaseTest;
+
+public class FunctionValidatingTest extends BaseTest 
+{
+	@Test(priority = 1)
+	public void loginToApplicationm()
+	{
+		BasePage p=new BasePage(driver);
+		p.Login();
+	}
+}

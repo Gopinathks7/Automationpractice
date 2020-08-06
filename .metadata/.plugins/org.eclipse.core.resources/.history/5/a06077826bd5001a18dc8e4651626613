@@ -1,0 +1,19 @@
+package com.pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class SearchValidatePage extends BasePage
+{
+
+	public SearchValidatePage(WebDriver driver)
+	{
+		super(driver);
+		PageFactory.initElements(driver, this);
+		
+	}
+
+	
+}

@@ -1,0 +1,32 @@
+2020-08-06 13:36:11,162 - com.scripts.SearchValidateTest - INFO - Initalising the  ExtentReport 
+2020-08-06 13:36:12,226 - com.scripts.SearchValidateTest - INFO - Browser: Selected is Chrome 
+2020-08-06 13:36:12,268 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 13:37:01,167 - com.scripts.SearchValidateTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 13:37:01,223 - com.scripts.SearchValidateTest - INFO - Finalizing ExtentReport 
+2020-08-06 13:53:10,629 - com.scripts.SearchValidateTest - INFO - Initalising the  ExtentReport 
+2020-08-06 13:53:11,067 - com.scripts.SearchValidateTest - INFO - Browser: Selected is Chrome 
+2020-08-06 13:53:11,105 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 13:53:56,188 - com.scripts.SearchValidateTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 13:53:56,316 - com.scripts.SearchValidateTest - INFO - Finalizing ExtentReport 
+2020-08-06 13:57:36,388 - com.scripts.SearchValidateTest - INFO - Initalising the  ExtentReport 
+2020-08-06 13:57:36,751 - com.scripts.SearchValidateTest - INFO - Browser: Selected is Chrome 
+2020-08-06 13:57:36,779 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 13:58:18,935 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 13:58:18,997 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 13:58:19,066 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 13:58:19,125 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 13:58:19,186 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 13:58:19,191 - com.pages.SearchValidatePage - INFO - Not Same 
+2020-08-06 13:58:20,769 - com.scripts.SearchValidateTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 13:58:20,819 - com.scripts.SearchValidateTest - INFO - Finalizing ExtentReport 
+2020-08-06 13:59:31,767 - com.scripts.SearchValidateTest - INFO - Initalising the  ExtentReport 
+2020-08-06 13:59:32,007 - com.scripts.SearchValidateTest - INFO - Browser: Selected is Chrome 
+2020-08-06 13:59:32,029 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-06 14:00:19,913 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 14:00:19,965 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 14:00:20,066 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 14:00:20,118 - com.pages.SearchValidatePage - INFO -  
+2020-08-06 14:00:20,167 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-06 14:00:20,173 - com.pages.SearchValidatePage - INFO - Not Same 
+2020-08-06 14:00:20,183 - com.scripts.SearchValidateTest - INFO - Execution completed on Browser:Chrome 
+2020-08-06 14:00:20,209 - com.scripts.SearchValidateTest - INFO - Finalizing ExtentReport 

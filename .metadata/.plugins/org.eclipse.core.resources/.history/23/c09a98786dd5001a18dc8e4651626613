@@ -1,0 +1,66 @@
+package com.pages;
+
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.common.BasePage;
+
+public class SearchValidatePage extends BasePage
+{
+
+	public SearchValidatePage(WebDriver driver)
+	{
+		super(driver);
+		PageFactory.initElements(driver, this);
+		
+	}
+	String actual="";
+	WebElement prd;
+	String expected="";
+	
+@FindBy(id="search_query_top")
+private WebElement searchitem;
+
+@FindBy(xpath=".//*[@name='submit_search']")
+private WebElement searchbutton;
+
+@FindBy(xpath="//*[@title='Printed Chiffon Dress']")
+private List<WebElement> productname;
+
+public void setSearch()
+{
+	
+	try
+	{
+		searchitem.sendKeys(actual);
+		searchbutton.click();
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+}
+	public void validateProductName()
+	{
+	
+		try
+		{
+			int count=productname.size();
+			for(int i=0;i<count;i++)
+			{
+				prd=productname.get(i);
+				expected=prd.getText();
+				
+			}
+			
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+}

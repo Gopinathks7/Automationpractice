@@ -90,15 +90,15 @@ public class BasePage implements AutomationConstants
 		 wait=new WebDriverWait(driver, 30);
 		 wait.until(ExpectedConditions.elementToBeClickable(element));
 	  }
-	  public void checkFunctionality(WebElement element) 
+	  public void checkFunctionality(String name,WebElement element) 
 	  {
 		  if(element.isDisplayed() && element.isEnabled())
 		  {
-			  log.info("Functionality is working");
+			  log.info(name +"  Button is Enable and  Displaying");
 		  }
 		  else
 		  {
-			  log.info("Functionality is not working");
+			  log.info(name+" Functionality is not working");
 		  }
 	  }
 	  

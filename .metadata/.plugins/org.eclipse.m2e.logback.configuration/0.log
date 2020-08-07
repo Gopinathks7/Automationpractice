@@ -3436,3 +3436,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.po
 2020-08-06 20:38:27,172 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace1\Automationpractice\src\main\resources
 2020-08-06 20:38:27,175 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-06 20:38:27,175 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace1\Automationpractice\src\test\resources
+2020-08-06 20:41:08,052 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-06 20:41:08,053 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace1\Automationpractice\src\main\resources
+2020-08-06 20:41:08,057 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-06 20:41:08,057 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace1\Automationpractice\src\test\resources

@@ -1,0 +1,62 @@
+2020-08-07 17:40:35,916 - com.scripts.InvalidLoginTest - INFO - Initalising the  ExtentReport 
+2020-08-07 17:40:36,625 - com.scripts.InvalidLoginTest - INFO - Browser: Selected is Chrome 
+2020-08-07 17:40:36,716 - com.scripts.InvalidLoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 17:42:43,298 - com.pages.LoginPage - INFO - Invalid Loging  Message is   Displyed 
+2020-08-07 17:42:46,426 - com.scripts.LoginTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 17:44:02,616 - com.scripts.SearchValidateTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 17:44:45,033 - com.pages.SearchValidatePage - INFO -  
+2020-08-07 17:44:45,129 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-07 17:44:45,363 - com.pages.SearchValidatePage - INFO -  
+2020-08-07 17:44:45,516 - com.pages.SearchValidatePage - INFO -  
+2020-08-07 17:44:45,615 - com.pages.SearchValidatePage - INFO - Printed Chiffon Dress 
+2020-08-07 17:44:45,616 - com.pages.SearchValidatePage - INFO - Same 
+2020-08-07 17:44:46,832 - com.scripts.AddingProductToCartTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 17:45:36,562 - com.pages.AddingProductToCartPage - INFO - There is 1 item in your cart. 
+2020-08-07 17:45:37,944 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 17:46:23,684 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-07 17:46:23,689 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-07 17:46:23,878 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-07 17:46:23,879 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-07 17:46:24,013 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-07 17:46:24,013 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-07 17:46:24,146 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-07 17:46:24,147 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-07 17:46:28,057 - com.scripts.InvalidLoginTest - INFO - Execution completed on Browser:Chrome 
+2020-08-07 17:46:28,243 - com.scripts.InvalidLoginTest - INFO - Finalizing ExtentReport 
+2020-08-07 18:18:14,713 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-07 18:18:15,245 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-07 18:18:15,297 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 18:19:10,701 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-07 18:19:10,702 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-07 18:19:10,906 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-07 18:19:10,907 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-07 18:19:11,062 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-07 18:19:11,063 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-07 18:19:11,201 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-07 18:19:11,202 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-07 18:19:13,048 - com.pages.FunctionValidatingPage - INFO - Twiter Button is Button is Enable and  Displaying 
+2020-08-07 18:19:13,376 - com.pages.FunctionValidatingPage - INFO - FaceBook Button is Button is Enable and  Displaying 
+2020-08-07 18:19:13,597 - com.pages.FunctionValidatingPage - INFO - Google Button is Button is Enable and  Displaying 
+2020-08-07 18:19:13,773 - com.pages.FunctionValidatingPage - INFO - Pinrest Button is Button is Enable and  Displaying 
+2020-08-07 18:19:14,930 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-07 18:19:14,965 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 
+2020-08-07 18:20:23,872 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-07 18:20:24,301 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-07 18:20:24,352 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 18:21:58,601 - com.scripts.FunctionValidatingTest - INFO - Initalising the  ExtentReport 
+2020-08-07 18:21:59,237 - com.scripts.FunctionValidatingTest - INFO - Browser: Selected is Chrome 
+2020-08-07 18:21:59,283 - com.scripts.FunctionValidatingTest - INFO - Application Started on Browser:Chrome 
+2020-08-07 18:22:33,080 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Twiter Button 
+2020-08-07 18:22:33,081 - com.pages.FunctionValidatingPage - INFO - Button Width Is 76  pixels of==>  Twiter Button 
+2020-08-07 18:22:33,233 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  FaceBook Button 
+2020-08-07 18:22:33,235 - com.pages.FunctionValidatingPage - INFO - Button Width Is 70  pixels of==>  FaceBook Button 
+2020-08-07 18:22:33,368 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Google Button 
+2020-08-07 18:22:33,369 - com.pages.FunctionValidatingPage - INFO - Button Width Is 91  pixels of==>  Google Button 
+2020-08-07 18:22:33,503 - com.pages.FunctionValidatingPage - INFO - Button Height Is 32 pixels  of==>  Pinrest Button 
+2020-08-07 18:22:33,504 - com.pages.FunctionValidatingPage - INFO - Button Width Is 92  pixels of==>  Pinrest Button 
+2020-08-07 18:22:35,413 - com.pages.FunctionValidatingPage - INFO - Twiter is Button is Enable and  Displaying 
+2020-08-07 18:22:35,870 - com.pages.FunctionValidatingPage - INFO - FaceBook is Button is Enable and  Displaying 
+2020-08-07 18:22:36,127 - com.pages.FunctionValidatingPage - INFO - Google is Button is Enable and  Displaying 
+2020-08-07 18:22:36,747 - com.pages.FunctionValidatingPage - INFO - Pinrest  is Button is Enable and  Displaying 
+2020-08-07 18:22:37,629 - com.scripts.FunctionValidatingTest - INFO - Execution completed on Browser:Chrome 
+2020-08-07 18:22:37,738 - com.scripts.FunctionValidatingTest - INFO - Finalizing ExtentReport 

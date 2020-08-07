@@ -96,7 +96,7 @@ public class FunctionValidatingPage extends BasePage
 			e.printStackTrace();
 		}
 	}
-	
+	 
 	public void getSizeofGoogleButton(String button) {
 		try
 		{
@@ -135,6 +135,52 @@ public class FunctionValidatingPage extends BasePage
 		e.printStackTrace();
 	}
 	}
+public void getEnableOrDisabletwiter(String buttonname)
+{
+	try
+	{
+		checkFunctionality(buttonname,twiterbutton);
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+}
+public void getEnableOrDisableFaceBook(String buttonname)
+{
+	try
+	{
+		checkFunctionality(buttonname,facebookbutton);
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+}
 
 
+public void getEnableOrDisableGoogleButton(String buttonname)
+{
+	try
+	{
+		checkFunctionality(buttonname,googlebutton);
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+}
+
+
+public void getEnableOrDisabletwiterPintrestButton(String buttonname)
+{
+	try
+	{
+		checkFunctionality(buttonname,pinrestbutton);
+	}
+	catch(Exception e)
+	{
+		e.printStackTrace();
+	}
+}
 }

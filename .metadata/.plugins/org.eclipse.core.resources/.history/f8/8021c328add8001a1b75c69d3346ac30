@@ -1,0 +1,654 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Aug 07 17:40:35 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>709</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>800</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>127382</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.LoginPage category">com.pages.LoginPage</td>
+<td>BasePage.java:132</td>
+<td title="Message">Invalid Loging  Message is   Displyed</td>
+</tr>
+
+<tr>
+<td>130510</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.LoginTest category">com.scripts.LoginTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>206700</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.SearchValidateTest category">com.scripts.SearchValidateTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>249117</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>249213</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>249447</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>249600</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message"></td>
+</tr>
+
+<tr>
+<td>249699</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:142</td>
+<td title="Message">Printed Chiffon Dress</td>
+</tr>
+
+<tr>
+<td>249700</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.SearchValidatePage category">com.pages.SearchValidatePage</td>
+<td>BasePage.java:86</td>
+<td title="Message">Same</td>
+</tr>
+
+<tr>
+<td>250916</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.AddingProductToCartTest category">com.scripts.AddingProductToCartTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>300646</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.AddingProductToCartPage category">com.pages.AddingProductToCartPage</td>
+<td>AddingProductToCartPage.java:59</td>
+<td title="Message">There is 1 item in your cart.</td>
+</tr>
+
+<tr>
+<td>302028</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>347768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>347773</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 76  pixels of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>347962</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>347963</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 70  pixels of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>348097</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>348097</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 91  pixels of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>348230</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>348231</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 92  pixels of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>352141</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>352327</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.InvalidLoginTest category">com.scripts.InvalidLoginTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Aug 07 18:18:14 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>533</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>585</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>55989</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>55990</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 76  pixels of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>56194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>56195</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 70  pixels of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>56350</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>56351</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 91  pixels of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>56489</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>56490</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 92  pixels of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>58336</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Twiter Button is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>58664</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">FaceBook Button is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>58885</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Google Button is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>59061</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Pinrest Button is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>60218</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>60253</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Aug 07 18:20:23 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>429</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>480</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Aug 07 18:21:58 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:49</td>
+<td title="Message">Initalising the  ExtentReport</td>
+</tr>
+
+<tr>
+<td>636</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:64</td>
+<td title="Message">Browser: Selected is Chrome</td>
+</tr>
+
+<tr>
+<td>682</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:77</td>
+<td title="Message">Application Started on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>34479</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>34480</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 76  pixels of==&gt;  Twiter Button</td>
+</tr>
+
+<tr>
+<td>34632</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>34634</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 70  pixels of==&gt;  FaceBook Button</td>
+</tr>
+
+<tr>
+<td>34767</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>34768</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 91  pixels of==&gt;  Google Button</td>
+</tr>
+
+<tr>
+<td>34902</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:110</td>
+<td title="Message">Button Height Is 32 pixels  of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>34903</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:111</td>
+<td title="Message">Button Width Is 92  pixels of==&gt;  Pinrest Button</td>
+</tr>
+
+<tr>
+<td>36812</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Twiter is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>37269</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">FaceBook is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>37526</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Google is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>38146</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.pages.FunctionValidatingPage category">com.pages.FunctionValidatingPage</td>
+<td>BasePage.java:97</td>
+<td title="Message">Pinrest  is Button is Enable and  Displaying</td>
+</tr>
+
+<tr>
+<td>39028</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:70</td>
+<td title="Message">Execution completed on Browser:Chrome</td>
+</tr>
+
+<tr>
+<td>39137</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.scripts.FunctionValidatingTest category">com.scripts.FunctionValidatingTest</td>
+<td>BaseTest.java:57</td>
+<td title="Message">Finalizing ExtentReport</td>
+</tr>

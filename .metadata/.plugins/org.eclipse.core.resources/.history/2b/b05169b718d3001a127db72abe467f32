@@ -1,8 +1,0 @@
-package com.scripts;
-
-import com.common.AutomationConstants;
-
-public class AddingProductToCartTest extends LoginTest implements AutomationConstants
-{
-
-}

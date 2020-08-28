@@ -25,15 +25,6 @@
       <scope>test</scope>
     </dependency>
     
-    
-    <!-- https://mvnrepository.com/artifact/org.codehaus.cargo/cargo-core-container-tomcat -->
-<dependency>
-    <groupId>org.codehaus.cargo</groupId>
-    <artifactId>cargo-core-container-tomcat</artifactId>
-    <version>1.8.0</version>
-</dependency>
-    
-    
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>

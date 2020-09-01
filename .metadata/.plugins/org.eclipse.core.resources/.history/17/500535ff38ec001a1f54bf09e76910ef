@@ -117,40 +117,6 @@
 					<executable>C:\Program Files (x86)\java\bin\javac</executable>
 				</configuration>
 			</plugin>
-			
-			<plugin>
-		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>maven-war-plugin</artifactId>
-		<version>2.6</version>
-		<configuration>
-			<failOnMissingWebXml>false</failOnMissingWebXml>
-		</configuration>
-	</plugin>
-	
-	
-	<plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-install-plugin</artifactId>
-            <version>2.5.2</version>
-            <executions>
-                <execution>
-                    <id>install-external1</id>
-                    <phase>clean</phase>
-                    <configuration>
-                        <file>${basedir}/resources/storm-eventhubs-1.0.2-jar-with-dependencies.jar</file>
-                        <repositoryLayout>default</repositoryLayout>
-                        <groupId>com.microsoft.eventhubs</groupId>
-                        <artifactId>eventhubs-storm-spout</artifactId>
-                        <version>1.0.2</version>
-                        <packaging>jar</packaging>
-                        <generatePom>true</generatePom>
-                    </configuration>
-                    <goals>
-                        <goal>install-file</goal>
-                    </goals>
-                </execution>
-            </executions>
-        </plugin>
 		</plugins>
 	</build>
 </project>
